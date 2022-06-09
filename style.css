@@ -1,0 +1,29 @@
+.heading{
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+    color:currentColor ;
+}
+.text1{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    color: gray;
+    margin: 0%;
+    padding: 3px;
+}
+.text2{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    color: blue;
+    margin: 0%;
+    padding: 3px;
+}.text3{
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif ;
+    color: darkgoldenrod;
+    margin: 0%;
+    padding: 3px;
+}
+.line{
+    width: 95%;
+    border-top: 1px solid #007bff;
+}
+.list{
+    font-family: cursive;
+    color: cadetblue;
+}
